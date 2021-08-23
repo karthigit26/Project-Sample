@@ -1,0 +1,17 @@
+HI
+
+HELLO 
+
+How are you man?
+
+for "diff" command
+
+<<<<<<< HEAD
+for dev master merge 
+
+2nd line master
+=======
+for dev master merge
+
+1st line dev 
+>>>>>>> dev
